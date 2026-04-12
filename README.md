@@ -7,7 +7,7 @@ Currently @ ThirdEye AI | React · Next.js · Node.js · MongoDB
 [badges here]
 
 ## 📊 GitHub Stats
-[stats widgets here]
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ## 🚀 Featured Projects
 - Project 1 — description + link
