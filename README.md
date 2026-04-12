@@ -63,7 +63,7 @@ const gaurav = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gaurvrwt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=gaurvrwt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -73,7 +73,7 @@ const gaurav = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaurvrwt&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=gaurvrwt&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
@@ -83,11 +83,11 @@ const gaurav = {
 
 > ⚠️ *Add your real projects below — replace with actual repo links and descriptions*
 
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| 🔧 **Project 1** | Brief description of what it does and the problem it solves | React, Node, MongoDB | [Demo](#) |
-| 🔧 **Project 2** | Brief description of what it does and the problem it solves | Next.js, Redis, Docker | [Demo](#) |
-| 🔧 **Project 3** | Brief description of what it does and the problem it solves | MERN, JWT, CI/CD | [Demo](#) |
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔧 **Project 1** | Brief description of what it does and the problem it solves | React, Node, MongoDB |
+| 🔧 **Project 2** | Brief description of what it does and the problem it solves | Next.js, Redis, Docker |
+| 🔧 **Project 3** | Brief description of what it does and the problem it solves | MERN, JWT, CI/CD |
 
 ---
 
@@ -95,7 +95,7 @@ const gaurav = {
 
 <div align="center">
 
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurvrwt&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurvrwt&theme=tokyo-night&hide_border=true" alt="Gaurav's github activity graph" />
 
 </div>
 
@@ -107,7 +107,6 @@ const gaurav = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-rwt)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravrawat061@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurvrwt)
 
 </div>
