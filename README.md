@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gaurav Rawat 👋
 
-<!--
-**gaurvrwt/gaurvrwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 3+ years building scalable SaaS apps.
+Currently @ ThirdEye AI | React · Next.js · Node.js · MongoDB
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+[badges here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+[stats widgets here]
+
+## 🚀 Featured Projects
+- Project 1 — description + link
+- Project 2 — description + link
+
+## 📫 Connect with me
+[LinkedIn] [Email] [Portfolio]
