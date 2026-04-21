@@ -83,29 +83,6 @@ const gaurav = {
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaurvrwt&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-> ⚠️ *Add your real projects below — replace with actual repo links and descriptions*
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔧 **Project 1** | Brief description of what it does and the problem it solves | React, Node, MongoDB |
-| 🔧 **Project 2** | Brief description of what it does and the problem it solves | Next.js, Redis, Docker |
-| 🔧 **Project 3** | Brief description of what it does and the problem it solves | MERN, JWT, CI/CD |
-
----
 
 ### 📈 Contribution Activity
 
