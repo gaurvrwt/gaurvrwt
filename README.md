@@ -7,7 +7,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gaurvrwt&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=flat&logo=calendar" />
+  <img src="https://img.shields.io/badge/Experience-4%20Years-brightgreen?style=flat&logo=calendar" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat&logo=checkmarx" />
 </p>
 
@@ -21,7 +21,7 @@
 const gaurav = {
   role        : "Executive Engineer @ ThirdEye AI (JBM Group)",
   location    : "Faridabad, India 🇮🇳",
-  experience  : "3+ years",
+  experience  : "4 years",
   focus       : ["Full Stack Development", "SaaS", "Microservices", "Performance Optimization"],
   currentWork : "Building scalable SaaS platforms serving 10,000+ active users",
   achievements: [
